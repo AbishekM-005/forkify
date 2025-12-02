@@ -1,37 +1,4 @@
-7530
-94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\instance\flags.js134090519463454203 0
-111C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\ordered-binary\.nyc_output\processinfo\index.json134090386312632025 0
-105C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\proposals\string-left-right-trim.js134090519541692098 0
-88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\string\small.js134090519535884001 0
-61C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules134090589765229604 1
-84C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\json5\lib\stringify.js134090386310539969 0
-89C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\internals\export.js134090519455584514 0
-94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\es.array.with.js134090519435711355 0
-92C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\type-fest\ts41\kebab-case.d.ts134090386417285470 0
-110C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\features\html-media-capture.js134090386916380049 0
-101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\string\virtual\anchor.js134090519405757428 0
-102C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\node-resolver-core\lib\_empty.js134090386236330955 0
-85C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\set\index.js134090519486785761 0
-85C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\weak-map134090519486192225 1
-95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.set.map.js134090519451756391 0
-64C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js\other js134090603720702661 1
-88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\math\log10.js134090519504506213 0
-80C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\tslib\package.json134090386283876402 0
-103C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\features\string\to-well-formed.js134090519550592526 0
-54C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist134091673618135570 1
-99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\async-disposable-stack134090519490095900 1
-86C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\semver\classes\semver.js134090386544077307 0
-91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\source-map-js\source-map.d.ts134090387357627926 0
-95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\map\get-or-insert.js134090519476065635 0
-99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\typed-array\entries.js134090519432682396 0
-93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\regions\BF.js134090386619382204 0
-109C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.typed-array.to-sorted.js134090519453082137 0
-101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.string.dedent.js134090519452312481 0
-69C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js134090519561155529 1
-99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\array\virtual\group.js134090519481705760 0
-86C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\nullthrows\nullthrows.js134090386233359245 0
-93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\sass\types\legacy\importer.d.ts134090387359761660 0
-59C:\Users\abish\OneDrive\Documents\GitHub\forkify\index.html134091654095844336 0
+7531
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\reporter-cli\lib\CLIReporter.js134090386370194635 0
 102C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.symbol.matcher.js134090519452591444 0
 91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\regenerator-runtime\README.md134090386249690715 0
@@ -62,6 +29,7 @@
 93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\string\fontsize.js134090519468251745 0
 93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\regions\MD.js134090386951867019 0
 79C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@msgpackr-extract134090589765307367 1
+53C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist134091673748156250 1
 79C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\dotenv-expand\lib134090386290180171 1
 82C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\type-fest\index.d.ts134090386398784904 0
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\string\virtual\fontsize.js134090519468159292 0
@@ -69,6 +37,29 @@
 98C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\features\instance\reverse.js134090519530055137 0
 95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\typed-array\set.js134090519534045813 0
 66C:\Users\abish\OneDrive\Documents\GitHub\forkify\package-lock.json134090589776148089 0
+86C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\semver\classes\semver.js134090386544077307 0
+91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\source-map-js\source-map.d.ts134090387357627926 0
+95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\map\get-or-insert.js134090519476065635 0
+99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\typed-array\entries.js134090519432682396 0
+93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\regions\BF.js134090386619382204 0
+109C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.typed-array.to-sorted.js134090519453082137 0
+101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.string.dedent.js134090519452312481 0
+69C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js134090519561155529 1
+99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\array\virtual\group.js134090519481705760 0
+86C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\nullthrows\nullthrows.js134090386233359245 0
+93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\sass\types\legacy\importer.d.ts134090387359761660 0
+59C:\Users\abish\OneDrive\Documents\GitHub\forkify\index.html134091654095844336 0
+94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\instance\flags.js134090519463454203 0
+111C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\ordered-binary\.nyc_output\processinfo\index.json134090386312632025 0
+105C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\proposals\string-left-right-trim.js134090519541692098 0
+88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\string\small.js134090519535884001 0
+61C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules134090589765229604 1
+84C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\json5\lib\stringify.js134090386310539969 0
+89C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\internals\export.js134090519455584514 0
+94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\es.array.with.js134090519435711355 0
+92C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\type-fest\ts41\kebab-case.d.ts134090386417285470 0
+110C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\features\html-media-capture.js134090386916380049 0
+101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\string\virtual\anchor.js134090519405757428 0
 52C:\Users\abish\OneDrive\Documents\GitHub\forkify\src134091667102854882 1
 55C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js134091654037358640 1
 69C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js\views\View.js134091612547945102 0
@@ -187,6 +178,13 @@
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\typed-array\find-last.js134090519462024648 0
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\dom-collections\index.js134090519488783836 0
 64C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js\model.js134091609702550442 0
+102C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\node-resolver-core\lib\_empty.js134090386236330955 0
+85C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\set\index.js134090519486785761 0
+85C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\weak-map134090519486192225 1
+95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.set.map.js134090519451756391 0
+64C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js\other js134090603720702661 1
+88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\full\math\log10.js134090519504506213 0
+80C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\tslib\package.json134090386283876402 0
 95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\graph\lib\ContentGraph.js134090386363982804 0
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\internals\date-to-iso-string.js134090519424886886 0
 78C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\js\views\addRecipeView.js134091552454923407 0
@@ -298,6 +296,7 @@
 75C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\source-map-js134090387357497714 1
 83C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\img\forkify-app-screenshot.png133747498020000000 0
 87C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\lmdb\dependencies\lz4\lib134090386683117326 1
+72C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\icons.21bad73c.svg134091673747786476 0
 92C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\graph\test\integration134090386236347039 1
 66C:\Users\abish\OneDrive\Documents\GitHub\forkify\src\img\icons.svg133747498020000000 0
 95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\es.math.fround.js134090519437778866 0
@@ -418,7 +417,6 @@
 68C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\dotenv134090386335312478 1
 75C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\dotenv-expand134090386300571738 1
 82C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\electron-to-chromium134090386364093173 1
-74C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\forkify.1d2976b7.js134091673617985653 0
 68C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\fracty134090589764921950 1
 104C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\config-default\test\config.test.js134090386288292749 0
 70C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\get-port134090386244573658 1
@@ -1825,7 +1823,6 @@
 83C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\msgpackr\iterators.js134090386395375776 0
 84C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\msgpackr\node-index.js134090386402649598 0
 88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\lightningcss\node\index.js134090386335409730 0
-73C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\icons.c5b0f01c.svg134091673617497668 0
 93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\proposals\extractors.js134090519455606767 0
 80C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\msgpackr\pack.d.ts134090386606998519 0
 85C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\msgpackr\test-worker.js134090386437895708 0
@@ -2200,6 +2197,7 @@
 107C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\typed-array\find-last-index.js134090519461448719 0
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\data-view\set-float16.js134090519531869386 0
 117C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\lightningcss\node_modules\detect-libc\lib\filesystem.js134090386244419830 0
+72C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\icons.0809ef97.svg134091673747786476 0
 131C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json134090386544276581 0
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\esnext.array.at.js134090519446356272 0
 105C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\array\virtual\to-reversed.js134090519547262325 0
@@ -2327,6 +2325,7 @@
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\esm\_write_only_error.js134090386718401828 0
 82C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\globals\package.json134090386244419830 0
 97C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\features\error\to-string.js134090519550142229 0
+71C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\logo.726d37a8.png134091673747786476 0
 83C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\get-port\package.json134090386187824621 0
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\features\instance\trim-right.js134090519553954095 0
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\features\apng.js134090386488762267 0
@@ -2462,6 +2461,8 @@
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\transformer-node\package.json134090386275138495 0
 94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\utils\src\http-server.js134090386488782259 0
 82C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stage\pre.js134090519524237940 0
+103C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\features\string\to-well-formed.js134090519550592526 0
+99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\async-disposable-stack134090519490095900 1
 102C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\source-map\parcel_sourcemap_node134090386638969862 1
 95C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\instance\concat.js134090519418008257 0
 91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\stable\async-iterator134090519490113432 1
@@ -3285,6 +3286,7 @@
 92C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\instance\pad-end.js134090519519672576 0
 87C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\es.map.js134090519437361334 0
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\proposals\string-dedent.js134090519541591324 0
+73C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\forkify.4a59a05f.js134091673747786476 0
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\proposals\string-match-all.js134090519541714544 0
 105C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\es\string\virtual\to-well-formed.js134090519550501246 0
 88C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\modules\web.url.js134090519558997190 0
@@ -5708,7 +5710,6 @@
 104C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\string\virtual\ends-with.js134090519430883964 0
 100C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\string\virtual\fixed.js134090519463155970 0
 104C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\string\virtual\fontcolor.js134090519467611789 0
-75C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\favicon.38ab3f7a.png134091673617354937 0
 93C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\caniuse-lite\data\regions\GN.js134090386913575321 0
 100C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\string\virtual\index.js134090519486030599 0
 105C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\core-js\actual\string\virtual\trim-right.js134090519553832337 0
@@ -6607,6 +6608,7 @@
 84C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\browserslist\README.md134090386303936663 0
 77C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\braces\index.js134090386249438169 0
 76C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\braces\LICENSE134090386187530317 0
+78C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\forkify.f7626f62.css.map134091673748126294 0
 81C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\braces\package.json134090386303455972 0
 78C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\braces\README.md134090386323993060 0
 83C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\braces\lib\compile.js134090386202735591 0
@@ -6920,6 +6922,7 @@
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\cjs\_create_class.cjs134090386506088506 0
 94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\packager-js\package.json134090386458734886 0
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\cjs\_create_super.cjs134090386526226743 0
+77C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\forkify.4a59a05f.js.map134091673748136280 0
 99C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\cjs\_define_property.cjs134090386543460215 0
 91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\cjs\_dispose.cjs134090386544135414 0
 91C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@swc\helpers\cjs\_extends.cjs134090386551060301 0
@@ -7139,7 +7142,6 @@
 96C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\core\lib\Transformation.js134090386704627901 0
 107C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\transformer-raw\src\RawTransformer.js134090386252906486 0
 98C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\transformer-posthtml\LICENSE134090386214953405 0
-72C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\logo.0240107d.png134091673617446843 0
 103C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\transformer-posthtml\package.json134090386292500269 0
 101C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\core\test\InternalAsset.test.js134090386640772467 0
 94C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\@parcel\transformer-posthtml\src134090386277434901 1
@@ -7525,7 +7527,6 @@
 71C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\.bin\sass134090387368110290 0
 73C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\.bin\semver134090387016605758 0
 89C:\Users\abish\OneDrive\Documents\GitHub\forkify\node_modules\.bin\update-browserslist-db134090387016605758 0
-78C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\forkify.1d2976b7.js.map134091673618125592 0
-75C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\forkify.f36d3900.css134091673617985653 0
-79C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\forkify.f36d3900.css.map134091673618125592 0
-65C:\Users\abish\OneDrive\Documents\GitHub\forkify\.dist\index.html134091673617985653 0
+74C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\favicon.8b2f57bf.png134091673747776475 0
+74C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\forkify.f7626f62.css134091673747786476 0
+64C:\Users\abish\OneDrive\Documents\GitHub\forkify\dist\index.html134091673747636550 0
