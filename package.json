@@ -1,0 +1,28 @@
+{
+  "name": "forkify",
+  "version": "1.0.1",
+  "description": "food recipe website",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir .dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbishekM-005/forkify.git"
+  },
+  "author": "Abishek Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbishekM-005/forkify/issues"
+  },
+  "homepage": "https://github.com/AbishekM-005/forkify#readme",
+  "dependencies": {
+    "core-js": "^3.47.0",
+    "fracty": "^1.0.12",
+    "parcel": "^2.16.1",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.1"
+  }
+}
